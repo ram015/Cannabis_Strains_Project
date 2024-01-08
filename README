@@ -1,0 +1,35 @@
+Data link :- https://www.kaggle.com/datasets/gthrosa/leafly-cannabis-strains-metadata/data
+Strain Characteristics:
+1)Explore and visualize the distribution of THC levels across different strains.
+2)Identify the most common terpenes in the dataset.
+Effect Analysis:
+1)Analyze the distribution of reported effects (e.g., relaxed, happy, euphoric) for each strain.
+2)Identify strains that are commonly associated with specific effects.
+Medical Use:
+1)Investigate strains that are reported to be effective for medical conditions (e.g., pain, insomnia, anxiety).
+2)Identify strains with potential therapeutic benefits based on reported effects.
+Popular Strains:
+1)Determine the popularity of different strains based on user ratings or mentions.
+2)Identify strains that have won awards or gained recognition.
+User Preferences:
+1)Explore the relationship between THC levels and user-reported effects.
+2)Analyze whether certain terpenes are more commonly associated with positive effects.
+Correlation Analysis:
+1)Investigate potential correlations between different reported effects.
+2)Explore if there are patterns in terpene content based on reported effects.
+Effect on Medical Conditions:
+1)Analyze which strains are reported to be effective for specific medical conditions.
+2)Identify potential strains for different health-related purposes.
+Visualization of Strains:
+1)Create visualizations (e.g., word clouds, bar charts) to represent the popularity of strains based on user reviews.
+Machine Learning Predictions:
+1)Build predictive models to estimate the likelihood of a strain being associated with specific effects or medical benefits.
+2)Evaluate the accuracy of these models.
+Cluster Analysis:
+1)Use clustering algorithms to group strains based on similarities in characteristics.
+2)Explore whether certain clusters are associated with particular effects or medical uses.
+Comparison of Strain Types:
+1)Compare characteristics, effects, and medical uses between different types of strains (indica, sativa, hybrid).
+Impact of Terpenes:
+1)Investigate the impact of individual terpenes on reported effects.
+Identify terpenes that are commonly associated with positive or negative experiences.
